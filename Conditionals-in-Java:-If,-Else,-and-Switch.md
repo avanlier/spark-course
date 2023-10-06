@@ -70,6 +70,16 @@ The `switch` statement allows you to choose one of several code blocks to execut
 **Syntax for `switch` Statement:**
 
 ```
+switch (expression) {
+  case x:
+    // Code block to execute if expression matches x
+    break;
+  case y:
+    // Code block to execute if expression matches y
+    break;
+  default:
+    // Code block to execute if expression matches none of the cases
+}
 ```
 
 Here's how it works:
@@ -81,8 +91,33 @@ Here's how it works:
 
 Here's an example that uses the day of the week number to determine the weekday name:
 
-javaCopy code
+```
+int day = 4;
+switch (day) {
+  case 1:
+    System.out.println("Monday");
+    break;
+  case 2:
+    System.out.println("Tuesday");
+    break;
+  case 3:
+    System.out.println("Wednesday");
+    break;
+  case 4:
+    System.out.println("Thursday");
+    break;
+  case 5:
+    System.out.println("Friday");
+    break;
+  case 6:
+    System.out.println("Saturday");
+    break;
+  case 7:
+    System.out.println("Sunday");
+    break;
+}
+// Outputs "Thursday" (day 4)
 
-`int  day  =  4;  switch  (day) {  case  1: System.out.println("Monday");  break;  case  2: System.out.println("Tuesday");  break;  case  3: System.out.println("Wednesday");  break;case  4: System.out.println("Thursday");  break;  case  5: System.out.println("Friday");break;  case  6: System.out.println("Saturday");  break;  case  7: System.out.println("Sunday");  break; }  // Outputs "Thursday" (day 4)`
+```
 
 These conditional statements in Java allow you to control the flow of your programs based on various conditions and inputs.
