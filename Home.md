@@ -34,6 +34,8 @@ Welcome to our Java programming tutorial series! In this comprehensive guide, we
 * [**Java Type Casting**](./Java-Type-Casting): Learn about type casting in Java and how to convert data from one type to another.
      
 * [**Handling Java Exceptions**](./Handling-Java-Exceptions): Explore error handling and exception handling techniques in Java to create robust and reliable programs.
+
+* [**Functional Programming using Java**](./Functional-Programming-using-Java#lambda-expressions)
          
 
 ## Let's Get Started!
