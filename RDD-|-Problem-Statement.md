@@ -2,7 +2,7 @@
 
 In the context of Spark, transformations are operations that create a new dataset by applying a specific function to each element of an existing dataset. Let's explore two use cases where transformations, such as `filter` and `map`, are applied to analyze airport data.
 
-### Use Case 1: Airports in the United States
+### Use Case 1: Airports in the United States | filter
 
 We begin by creating a Java class named "AirportsInUsaProblem" within the package "com.sparkTutorial.rdd.airportspackage." Our goal is to analyze data from the "airports.text" file, which contains information about airports worldwide. Specifically, we want to identify airports located in the United States and extract their names and respective cities.
 
@@ -17,7 +17,7 @@ We begin by creating a Java class named "AirportsInUsaProblem" within the packag
 > -   "Putnam County Airport", "Greencastle"
 > -   "Dowagiac Municipal Airport", "Dowagiac"
 
-### Use Case 2: Airports by Latitude
+### Use Case 2: Airports by Latitude | map
 
 In the second scenario, we create a Java class called "AirportsByLatitudeProblem" in the "com.sparkTutorial.rdd.airports" package. This time, we aim to identify airports with latitudes greater than 40 degrees and output pairs of airport names and their respective latitudes.
 
