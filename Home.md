@@ -5,7 +5,7 @@ Welcome to the Java and Apache Spark™ Session repository! This repository hous
 Inside this repository, you will find resources related to Java and Apache Spark™, enhancing your skills in these technologies.
 
 - [Java Programming Fundamentals](./java-programming-fundamentals)
-- [Apache Spark™](./java-programming-fundamentals)
+- [Apache Spark™](./Apache-Spark™-Learning-Resources)
 
 To access the workspace, navigate to the "Code" section of this GitHub repository.
 
