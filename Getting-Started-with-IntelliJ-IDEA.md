@@ -44,25 +44,27 @@ Let's create a new Java project:
 
 -   Click on "New Project" on the welcome screen
 	    
+<img width="996" alt="image" src="https://github.com/datacouch-io/spark-java/assets/82901931/1ee205c8-edfa-49aa-b612-0ef967455137">
 
-	![](https://lh3.googleusercontent.com/BrOiv-ZM76_axWo8IkzJCETYyQJN0MyLouS7wKKPlmvLrBlM5cM8tz87Vgwa-unshDYcMabyHw1iPw6lDjn0FcwH9I7BBCvp40SyhEj9XrhZqKoIXHSbXXjfQz2-WORGuJoeOrZZbJCflstopdKTqu0)
 
--   Choose "Java" from the list of project templates
+-   Choose "Java" from the list of project then click on next
+
+<img width="1164" alt="image" src="https://github.com/datacouch-io/spark-java/assets/82901931/fc52ffb7-716c-44be-8c56-7e776cea1170">
     
--   Configure the project settings:
-    
+-   Click on next
+
+<img width="1163" alt="image" src="https://github.com/datacouch-io/spark-java/assets/82901931/5a0353d6-3978-4596-b70f-2761616a1000">    
 
 -   Project Name: Give your project a meaningful name (for instance; CalculatorProject )
     
 -   Project Location: Choose where to save your project files
     
--   Project SDK: Select your Java Development Kit (JDK) version
-    
+<img width="1162" alt="image" src="https://github.com/datacouch-io/spark-java/assets/82901931/33f1914b-e043-4767-8076-82b1431094c4">    
 
 -   Click "Create" to create the project
-	    
 
-	![](https://lh6.googleusercontent.com/hWTCu3bSk2aP5y9E514GfA4En7C6zkksq-1w-WDCgCFHNbcGcsfLsNgntodb1Gsg7vl327YgQS5V8D25CqeXbodORoiWWk-jlso98S2Pr0U_IniyOQBLi3_a6EHbtWz-u53_gnf8GosPBlKMDtQs_Ds)
+<img width="1395" alt="image" src="https://github.com/datacouch-io/spark-java/assets/82901931/a7d289cf-0d00-484c-a568-0c0ca039b601">
+
 
 ## Writing and Running Java Code
 
