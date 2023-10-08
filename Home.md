@@ -7,7 +7,7 @@ Inside this repository, you will find resources related to Java and Apache Spark
 - [Java Programming Fundamentals](./java-programming-fundamentals)
 - [Apache Spark™](./Apache-Spark™-Learning-Resources)
 
-To access the workspace, navigate to the "Code" section of this GitHub repository.
+To access the workspace, navigate to the [Code](https://github.com/datacouch-io/spark-java) section of this GitHub repository.
 
 ### Prerequisites:
 
