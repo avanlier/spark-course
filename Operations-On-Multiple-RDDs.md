@@ -79,6 +79,7 @@ Now, let's introduce a third user (User3) who attends different meetups. We will
 **Let's introduce user3**
 
 User3 attends meetups: m1, m3, and m5, as illustrated below.
+
 ![](https://lh4.googleusercontent.com/QwwkfCtNq0BxgYcCuHfikCEs-dTpi61XyX7Md3z8cEc60llPVYX6DkiBl6eOZkrLGEKJJVdwCFR-q8D1hVxex9w07NaJ64b0Sv3sp3_NlaifMgrXQRGsuFf2K7fEVKk8-QRxgZms2tTlPxFBv90jPi4)
 
 ### Creating RDD for User3
