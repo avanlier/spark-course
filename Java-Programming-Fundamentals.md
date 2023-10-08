@@ -37,7 +37,6 @@ Welcome to our Java programming tutorial series! In this comprehensive guide, we
 
 * [**Functional Programming using Java**](./Functional-Programming-using-Java#lambda-expressions)
 
-* [**Working with JUnit in IntelliJ IDEA**](./Working-with-JUnit-in-IntelliJ-IDEA)         
 
 ## Let's Get Started!
 
