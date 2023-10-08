@@ -4,6 +4,8 @@ Welcome to our Java programming tutorial series! In this comprehensive guide, we
 
 
 * [**Introduction to Java Programming**](./Introduction-to-Java-Programming): Begin your journey by understanding the basics of Java, its history, and its significance in the world of programming.
+
+* [**Getting Started with IntelliJ IDEA**](./Getting-Started-with-IntelliJ-IDEA)
     
 * [**Java Quickstart: Your First Java Program**](./Java-Quickstart:-Your-First-Java-Program): Get hands-on experience with Java by creating and running your very first Java program.
     
