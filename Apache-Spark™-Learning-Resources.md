@@ -2,7 +2,7 @@ Welcome to the Apache Spark™ Learning Resources repository! This project is a 
 
 ## Table of Contents
 
--  **Introduction to Spark**
+-  [**Introduction to Spark**](./Introduction-to-Apache-Spark)
     
     -   Get started with Apache Spark™ and understand its key features.
 -  [**Unit Testing**](./Working-with-JUnit-in-IntelliJ-IDEA)
