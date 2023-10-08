@@ -36,7 +36,8 @@ Welcome to our Java programming tutorial series! In this comprehensive guide, we
 * [**Handling Java Exceptions**](./Handling-Java-Exceptions): Explore error handling and exception handling techniques in Java to create robust and reliable programs.
 
 * [**Functional Programming using Java**](./Functional-Programming-using-Java#lambda-expressions)
-         
+
+* [**Working with JUnit in IntelliJ IDEA**](./Working-with-JUnit-in-IntelliJ-IDEA)         
 
 ## Let's Get Started!
 
