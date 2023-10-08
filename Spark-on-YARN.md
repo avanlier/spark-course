@@ -114,4 +114,6 @@ Open ResourceManager UI Web interface in another browser tab and click on applic
 
 ![](https://lh4.googleusercontent.com/RTaX-yqzNbdn1t6v4uACgSiZZUqhuCktguFcL0mfHHvs3pxDXFtncsi19YwqHe3dZ8rsPF4i8e9hqSDBKaaHRtoV0ek6X-C_L9pkcQDJJIjBy_Rg7DSMB_58fsMymYw7RECHheeRBwCfkBrv-bPuIQ)  
 
-![](https://lh6.googleusercontent.com/mYJuKKAFbUEi8wTvo02NIQywW6uxiQO3Y8qnDPYFT282IFjiP1oImfvyK2VGWf1KLfUHB-hbtAM6pI0Dphp6N4tl2DPfxe0TxbcEazxO_-8y6Xkx4iOn5BO76gc06JuV6CeyCaG7a9-Wa8FWmqrM4A)![](https://lh6.googleusercontent.com/Iwe542zGyiOlUn9sIvPS2Kto_74W8s20Z7MNFWb7c2tCl4tjYbPiNpgl9mcQCaTWDeu4t9R7kyJQcLzgTpDuQrC5xwHtGUfkwuKIqGIEHM520YxnM-Wgmk5EQPlN6cbNJ8KGNkZeJYEj9OE-VruMOQ)
+![](https://lh6.googleusercontent.com/mYJuKKAFbUEi8wTvo02NIQywW6uxiQO3Y8qnDPYFT282IFjiP1oImfvyK2VGWf1KLfUHB-hbtAM6pI0Dphp6N4tl2DPfxe0TxbcEazxO_-8y6Xkx4iOn5BO76gc06JuV6CeyCaG7a9-Wa8FWmqrM4A)
+
+![](https://lh6.googleusercontent.com/Iwe542zGyiOlUn9sIvPS2Kto_74W8s20Z7MNFWb7c2tCl4tjYbPiNpgl9mcQCaTWDeu4t9R7kyJQcLzgTpDuQrC5xwHtGUfkwuKIqGIEHM520YxnM-Wgmk5EQPlN6cbNJ8KGNkZeJYEj9OE-VruMOQ)
