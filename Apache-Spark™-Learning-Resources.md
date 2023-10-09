@@ -41,4 +41,8 @@ and visualise with DAG.
 
 - [**Broadcast**](./Broadcast)
 
+- [**Custom Partitioner**](./Custom-Partitioner)
+
+- [**Spark Partitioning & Partition**](./Spark-Partitioning-&-Partition)
+
 These resources aim to provide you with a comprehensive understanding of Apache Spark™, from its basics to more advanced topics. Feel free to explore each section as you embark on your journey to master Spark. Happy learning!
