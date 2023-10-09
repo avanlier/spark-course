@@ -41,6 +41,8 @@ Welcome to our Java programming tutorial series! In this comprehensive guide, we
 
 * [**Java Interfaces**](./Java-Interfaces)
 
+* [**Java Collections Framework**](./Java-Collections-Framework)
+
 * [**Java ArrayList**](./Java-ArrayList)
 
 * [**Understanding Java `static` Keyword**](./Understanding-Java-%60static%60-Keyword)
