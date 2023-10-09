@@ -26,16 +26,17 @@ Welcome to the Apache Spark™ Learning Resources repository! This project is a 
     
     -   Delve into Pair RDD operations, which are essential for key-value pair data processing.
 
-- [Spark on YARN](./Spark-on-YARN)
-- [Operations On Multiple RDDs](./Operations-On-Multiple-RDDs)
+- [**Spark on YARN**](./Spark-on-YARN)
+- [**Operations On Multiple RDDs**](./Operations-On-Multiple-RDDs)
     -   In this lab, we will look at several transformations and examine the optimizations
 and visualise with DAG.
 
-- [Corrupt Data Handling](./Corrupt-Data-Handling)
+- [**Corrupt Data Handling**](./Corrupt-Data-Handling)
 
-- [Advanced Transformations](./Advanced-Transformations)
+- [**Advanced Transformations**](./Advanced-Transformations)
 
-- [Advanced Actions](./Advanced-Actions)
+- [**Advanced Actions**](./Advanced-Actions)
 
+- [**Accumulators**] (./Accumulators)
 
 These resources aim to provide you with a comprehensive understanding of Apache Spark™, from its basics to more advanced topics. Feel free to explore each section as you embark on your journey to master Spark. Happy learning!
