@@ -37,6 +37,8 @@ and visualise with DAG.
 
 - [**Advanced Actions**](./Advanced-Actions)
 
-- [**Accumulators**] (./Accumulators)
+- [**Accumulators**](./Accumulators)
+
+- [**Broadcast**](./Broadcast)
 
 These resources aim to provide you with a comprehensive understanding of Apache Spark™, from its basics to more advanced topics. Feel free to explore each section as you embark on your journey to master Spark. Happy learning!
