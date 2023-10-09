@@ -45,4 +45,6 @@ and visualise with DAG.
 
 - [**Spark Partitioning & Partition**](./Spark-Partitioning-&-Partition)
 
+- [**Basic dataframe with AWS S3**](./Basic-dataframe-with-AWS-S3)
+
 These resources aim to provide you with a comprehensive understanding of Apache Spark™, from its basics to more advanced topics. Feel free to explore each section as you embark on your journey to master Spark. Happy learning!
