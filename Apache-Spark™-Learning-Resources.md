@@ -31,5 +31,9 @@ Welcome to the Apache Spark™ Learning Resources repository! This project is a 
     -   In this lab, we will look at several transformations and examine the optimizations
 and visualise with DAG.
 
+- [Corrupt Data Handling](./Corrupt-Data-Handling)
+
+
+
 
 These resources aim to provide you with a comprehensive understanding of Apache Spark™, from its basics to more advanced topics. Feel free to explore each section as you embark on your journey to master Spark. Happy learning!
