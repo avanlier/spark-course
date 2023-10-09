@@ -33,7 +33,7 @@ and visualise with DAG.
 
 - [Corrupt Data Handling](./Corrupt-Data-Handling)
 
-
+- [Advanced Transformations](./Advanced-Transformations)
 
 
 These resources aim to provide you with a comprehensive understanding of Apache Spark™, from its basics to more advanced topics. Feel free to explore each section as you embark on your journey to master Spark. Happy learning!
