@@ -29,8 +29,8 @@ public class S3CSVReadWrite {
                 .getOrCreate();  
   
   // S3 Configuration  
-  String awsAccessKeyId = "AKIA3OHF7P5GHWXPXB74";  
-  String awsSecretAccessKey = "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";  
+  String awsAccessKeyId = "awsAccessKeyId";  
+  String awsSecretAccessKey = "awsSecretAccessKey";  
   String s3Bucket = "demo0123";  
   String s3Key = "costs.csv";  
   
