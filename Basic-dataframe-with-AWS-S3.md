@@ -4,7 +4,7 @@
 
 The objective of this lab is to demonstrate how to read data from an Amazon S3 bucket in CSV format using Apache Spark and then write the processed data back to the S3 bucket in CSV format.
 
-```
+```java
 package com.sparkTutorial.awss3;  
   
 import org.apache.spark.SparkConf;  
