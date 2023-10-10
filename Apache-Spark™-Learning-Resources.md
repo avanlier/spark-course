@@ -5,9 +5,7 @@ Welcome to the Apache Spark™ Learning Resources repository! This project is a 
 -  [**Introduction to Spark**](./Introduction-to-Apache-Spark)
     
     -   Get started with Apache Spark™ and understand its key features.
--  [**Unit Testing**](./Working-with-JUnit-in-IntelliJ-IDEA)
-    
-    -   Explore unit testing strategies for Spark applications to ensure robust code.
+
 -  [**Resilient Distributed Dataset (RDD)**](./Resilient-Distributed-Datasets-(RDD)-%E2%80%90-Introduction)
     
     -   Dive deep into the concept of RDD, a fundamental data structure in Spark.
@@ -45,6 +43,9 @@ and visualise with DAG.
 
 - [**Spark Partitioning & Partition**](./Spark-Partitioning-&-Partition)
 
-- [**Basic dataframe with AWS S3**](./Basic-dataframe-with-AWS-S3)
+- **Spark SQL**
+  - [**Dataframe and Spark SQL**](./Dataframe-and-Spark-SQL)
+  - [**Basic dataframe with AWS S3**](./Basic-dataframe-with-AWS-S3)
+
 
 These resources aim to provide you with a comprehensive understanding of Apache Spark™, from its basics to more advanced topics. Feel free to explore each section as you embark on your journey to master Spark. Happy learning!
