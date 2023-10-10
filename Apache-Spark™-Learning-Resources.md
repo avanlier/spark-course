@@ -45,6 +45,7 @@ and visualise with DAG.
 
 - **Spark SQL**
   - [**Dataframe and Spark SQL**](./Dataframe-and-Spark-SQL)
+  - [**Spark SQL Fundamentals**](./Spark-SQL-Fundamentals)
   - [**Basic dataframe with AWS S3**](./Basic-dataframe-with-AWS-S3)
 
 
