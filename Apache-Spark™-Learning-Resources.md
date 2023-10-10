@@ -47,6 +47,7 @@ and visualise with DAG.
   - [**Dataframe and Spark SQL**](./Dataframe-and-Spark-SQL)
   - [**Spark SQL Fundamentals**](./Spark-SQL-Fundamentals)
   - [**Basic dataframe with AWS S3**](./Basic-dataframe-with-AWS-S3)
+  - [**DataFrame Transformations**](./DataFrame-Transformations)
 
 
 These resources aim to provide you with a comprehensive understanding of Apache Spark™, from its basics to more advanced topics. Feel free to explore each section as you embark on your journey to master Spark. Happy learning!
